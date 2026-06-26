@@ -1,4 +1,4 @@
-Neural IDS – Real-time DDoS Detection Using Deep Learning
+Neural IDS – Simulation-time DDoS Detection Using Deep Learning
 
 This project implements a deep learning-based Intrusion Detection System (IDS) to detect DDoS attacks in real time. It uses a hybrid CNN-LSTM model, a Flask API for predictions, Prometheus for scraping metrics, and Grafana for real-time visualization.
 
